@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xZeitx
 - 👀 My interests are programming, video games, music and reading.
-- 🌱 I’m currently learning C# with intent to learn more.
+- 🌱 I’m currently learning C# with intent to learn more languages and improve my skillset.
 - 💞️ I’m learning C# to brush up on my programming knowledge from university and working on improving an area I was weak in.
 
 
